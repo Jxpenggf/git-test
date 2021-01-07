@@ -14,8 +14,9 @@ struct Point
     float x, y, z;
 };
 int main (int argc, char** argv)
+{
 
-
+  std::cout<<"version 2.0\n"
 
 
 }
